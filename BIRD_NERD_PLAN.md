@@ -74,8 +74,8 @@ I'm learning to build this project myself.
 
 Detailed lessons, specs, hints and Mac commands: see **Part 2: Weeks 1–3 guide** below.
 
-- [ ] **Python foundations.** Learn types, functions, modules and virtual environments. Build two small functions and their tests yourself. **Check:** all your tests pass.
-- [ ] **Run BirdNET.** Learn how a sound model scores audio in 3-second chunks. Build a script that prints the top 3 species for your own clip. **Check:** it prints species and confidence scores.
+- [x] **Python foundations.** Learn types, functions, modules and virtual environments. Build two small functions and their tests yourself. **Check:** all your tests pass.
+- [x] **Run BirdNET.** Learn how a sound model scores audio in 3-second chunks. Build a script that prints the top 3 species for your own clip. **Check:** it prints species and confidence scores.
 - [ ] **Build the API.** Learn file uploads, FastAPI dependencies and HTTP status codes. Build `/health` and `/identify` with an API-key check and input limits. **Check:** every error case returns the right status code.
 - [ ] **Write tests.** Learn why most tests use a fake model. **Check:** at least 8 tests pass and the linter is clean.
 - [ ] **Measure accuracy.** Learn top-1 versus top-3 accuracy. Build a script that scores 100 labeled xeno-canto recordings. **Check:** a results summary, plus one sentence on what surprised you.
